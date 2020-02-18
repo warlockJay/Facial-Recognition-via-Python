@@ -8,7 +8,7 @@ To do:
    
 2. Make sure you are running 64-bit Version of Python.
 
-3. Download Visual Studio 2019 Community version from link below,
+3. Download Visual Studio 2019 Community version from link,
    "https://visualstudio.microsoft.com/downloads/?utm_medium=microsoft&utm_source=docs.microsoft.com&utm_campaign=button+cta&utm_content=download+vs2019+rc"
 
 4. After installing VS 2019 Community version, on Workloads select "Desktop development with c++" which will have some additional 6gigs of files.
